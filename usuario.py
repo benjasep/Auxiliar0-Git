@@ -19,3 +19,5 @@ class Usuario:
         return self.username
     def obtenerPassword(self):
         return self.password
+
+## AAA
